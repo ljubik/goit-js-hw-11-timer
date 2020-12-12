@@ -75,3 +75,5 @@ const mins = Math.floor((time % (1000 * 60 * 60)) / (1000 * 60));
  * миллисекунд в одной секунде (1000)
  */
 const secs = Math.floor((time % (1000 * 60)) / 1000);
+
+
